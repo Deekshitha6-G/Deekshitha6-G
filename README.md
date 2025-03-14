@@ -1,4 +1,4 @@
-## Hi there 👋
+I am student 
 
 <!--
 **Deekshitha6-G/Deekshitha6-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
